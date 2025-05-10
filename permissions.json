@@ -1,8 +1,8 @@
 {
   "items":[
-    {"id":1,"languageKey":"administration",children:[
-      {"id":2,"languageKey":"config.singular",parentId:1,permissionId:1,children:[]},
-      {"id":3,"languageKey":"users.plural",parentId:1,permissionId:2,children:[]},      
+    {"id":1,"languageKey":"administration","children":[
+      {"id":2,"languageKey":"config.singular","parentId":1,"permissionId":1,"children":[]},
+      {"id":3,"languageKey":"users.plural","parentId":1,"permissionId":2,"children":[]},      
     ]}
   ]
 }
